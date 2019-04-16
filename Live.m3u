@@ -1,9 +1,12 @@
 # ESIPTVMK2
 #EXTM3U
+<Group
 #EXTINF:-1,VIP CA : A&E HD
 http://estv.iptv.rentals:83/Billy.C/Wjbj61nqKx/331897
 #EXTINF:-1,VIP CA : ABC HD
 http://estv.iptv.rentals:83/Billy.C/Wjbj61nqKx/331961
+>
+</group>
 #EXTINF:-1,VIP CA : ABC SPARK
 http://estv.iptv.rentals:83/Billy.C/Wjbj61nqKx/331960
 #EXTINF:-1,VIP CA : AMC HD
