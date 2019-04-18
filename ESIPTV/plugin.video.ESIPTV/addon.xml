@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.ESIPTV" name="ESIPTV" version="1.0.9" provider-name="Avigdor">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="repository.xbmc-israel" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">This is still in beta. ES.</summary>
+    <description lang="en">Thanks for testing. This is still in development. Please report any bugs.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
